@@ -1,4 +1,5 @@
 Análisis de Precios, Demanda y Producción de Electricidad en Italia
+
 Este proyecto lleva a cabo un análisis detallado sobre el mercado de electricidad en Italia, centrándose en los precios, demanda y producción, y cómo estos factores se ven influenciados por la producción de gas. El dataset utilizado fue descargado desde Kaggle, y contiene cuatro archivos CSV que se analizaron para obtener información relevante sobre la evolución del mercado eléctrico italiano.
 
 Descripción del Proyecto
