@@ -33,35 +33,3 @@ Herramientas utilizadas:
 Python: Lenguaje de programación utilizado para realizar el análisis.
 Pandas: Librería principal utilizada para la manipulación y análisis de los datos.
 Matplotlib: Librería para la visualización de gráficos y resultados.
-Cómo ejecutar el proyecto:
-Clonar el repositorio:
-
-bash
-Copiar código
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-Instalar dependencias:
-
-Asegúrate de tener Python 3.6 o superior instalado.
-Crea un entorno virtual (opcional pero recomendado):
-bash
-Copiar código
-python -m venv env
-Activa el entorno virtual:
-En Windows:
-bash
-Copiar código
-.\env\Scripts\activate
-En macOS/Linux:
-bash
-Copiar código
-source env/bin/activate
-Instala las dependencias necesarias:
-bash
-Copiar código
-pip install -r requirements.txt
-Ejecutar los notebooks:
-
-Abre los Jupyter Notebooks para realizar el análisis. Puedes abrirlos con:
-bash
-Copiar código
-jupyter notebook
